@@ -1,0 +1,56 @@
+{
+	// AmieDD Favorite Extensions
+	// See http://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions recommendedation for users of this workspace.
+	//How to use: Just open this extensions.json file into Visual Studio Code and in the Extension tab on the left type @recommended for this list to show. 
+	//If you don't have these already installed you just have to click the "Install" Green button and each open will install.
+	"recommendations": [
+		"ms-vscode.csharp",
+		"dracula-theme.theme-dracula",
+		"pnp.polacode",
+		"pkief.material-icon-theme",
+		"amlovey.uas",
+		"unity.unity-debug",
+		"formulahendry.auto-close-tag",
+		"yzane.markdown-pdf",
+		"yzhang.markdown-all-in-one",
+		"ecmel.vscode-html-css",
+		"ms-vscode.csharp",
+		"humao.rest-client",
+		"vsciot-vscode.vscode-arduino",
+		"lunarlimbo.banner-comments-plus",
+		"hookyqr.beautify",
+		"aaron-bond.better-comments",
+		"formulahendry.code-runner",
+		"streetsidesoftware.code-spell-checker",
+		"dbaeumer.vscode-eslint",
+		"tokoph.ghosttext",
+		"github.vscode-pull-request-github",
+		"eamodio.gitlens",
+		"davidanson.vscode-markdownlint",
+		"eg2.vscode-npm-script",
+		"quicktype.quicktype",
+		"ms-python.python",
+		"vsmobile.vscode-react-native",
+		"humao.rest-client",
+		"arjun.swagger-viewer",
+		"ms-mssql.mssql",
+		"deerawan.vscode-faker",
+		"jeremyrajan.webpack",
+		"dotjoshjohnson.xml",
+		"buianhthang.xml2json",
+		"kleber-swf.unity-code-snippets",
+		"kleber-swf.unity-code-snippets",
+		"ms-vscode.cpptools",
+		"peterjausovec.vscode-docker",
+		"formulahendry.vscode-mysql",
+		"ckolkman.vscode-postgres"
+	
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+		
+	]
+}
